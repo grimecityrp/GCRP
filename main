@@ -270,12 +270,13 @@ added black thompson blueprint
 
 
 03/03/2025
-updated handling.json
-updated crafting.json
-added draco blueprint 
-
-updated hospitals
-updated check-in zones
-added grandmas house (revive)
-added cheaper fee for revive at grandmas
-added longer revive time at grandmas
+- updated vehicle handlings
+   - more to come
+- updated crafting bench
+   - added draco blueprint
+- updated hospital / check-in
+   - added grandmas house (revive)
+      - ideal for criminals
+      - cheaper fee for check-ins
+      - longer revive time than hospital
+      - no police interactions at grandmas
